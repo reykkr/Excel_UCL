@@ -1,0 +1,3 @@
+Car Sales Analysis in Excel
+
+In the car sales project conducted using Excel, I analyzed a dataset related to car sales to gain insights into trends and patterns. Through data cleaning, exploratory analysis, and visualizations, I uncovered key information about the sales performance of different car models, customer preferences, and seasonal variations. By employing Excel's functionalities, I presented my findings in clear and informative charts and graphs. This project enhanced my data analysis skills and provided practical experience in utilizing Excel for real-world business insights.

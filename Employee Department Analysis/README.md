@@ -1,0 +1,3 @@
+Employee Department Analysis
+
+In the Employee Work Position Analysis project conducted using Microsoft Excel, the objective was to gain insights into the distribution and characteristics of various work positions within an organization. Through a structured approach, the project involved data collection, analysis, and visualization to provide a comprehensive overview of the workforce composition.
